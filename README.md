@@ -26,8 +26,8 @@ Other Style Guides
 1. [CSS Best Practices](#css-best-practices)
 1. [SCSS](#scss)
 1. [Accessibility](#accessibility)
-1. [Browser &amp; Device Support](#browser-device-support)
-1. [Files &amp; Folders](#files-folders)
+1. [Browser & Device Support](#browser-device-support)
+1. [Files & Folders](#files-folders)
 
 <a name="overview"></a>
 ## Overview
