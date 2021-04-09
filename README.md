@@ -38,7 +38,7 @@ This document is not intended to:
 <a name="overview--prime-directive"></a><a name="1.1"></a>
 - [1.1](#overview--prime-directive) Prime Directive
 
-  The standards herein are a guide to keep developers at the Nerdery interoperable amongst each other and able to produce the highest quality code given the timeline and budget constraints of a project.
+  The standards herein are a guide to keep developers at Horizontal Digital interoperable amongst each other and able to produce the highest quality code given the timeline and budget constraints of a project.
 
   For a successful project, always favor solutions that benefit the project and end users over producing "perfect code".
 
@@ -71,7 +71,7 @@ This document is not intended to:
 <a name="methodology"></a>
 ## Methodology
 
-The following key points and ideas make up the methodology of "how" and "why" we do Front-End Development at the Nerdery the way we do. Most of these topics are touched on in the standards in the form of rules to follow, but they will be covered more in depth in an effort to better explain and stress the importance of our methodology.
+The following key points and ideas make up the methodology of "how" and "why" we do Front-End Development at Horizontal Digital the way we do. Most of these topics are touched on in the standards in the form of rules to follow, but they will be covered more in depth in an effort to better explain and stress the importance of our methodology.
 
 <a name="methodology--modularity"></a><a name="2.1"></a>
 - [2.1](#methodology--modularity) Modularity
@@ -576,7 +576,7 @@ The following key points and ideas make up the methodology of "how" and "why" we
   - `<nav></nav>`
   - `<section></section>`
   - `<time></time>`
-  - `<small>&copy; 2015 The Nerdery</small>`
+  - `<small>&copy; 2015 Horizontal Digital</small>`
 
   **Use with Caution**
 
@@ -686,8 +686,8 @@ The following key points and ideas make up the methodology of "how" and "why" we
   Whenever possible, omit the protocol portion (`http:`, `https:`) from URLs.
 
   ```html
-  <link rel="stylesheet" href="//www.nerdery.com/assets/styles/screen.css" />
-  <a href="//www.nerdery.com/">The Nerdery</a>
+  <link rel="stylesheet" href="//www.horizontaldigital.com/assets/styles/screen.css" />
+  <a href="//www.horizontaldigital.com/">Horizontal Digital</a>
   ```
 
 <a name="html-best-practices--html-entities"></a><a name="4.9"></a>
@@ -717,7 +717,7 @@ The following key points and ideas make up the methodology of "how" and "why" we
 
   ```html
   <div>
-      <small>&copy; 2012 The Nerdery</small>
+      <small>&copy; 2012 Horizontal Digital</small>
   </div>
   ```
 
